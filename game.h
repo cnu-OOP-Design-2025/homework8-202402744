@@ -5,6 +5,8 @@
 #include <stdexcept>
 using namespace std;
 
+class Character; 
+
 class Character {
 protected:
     string description;
